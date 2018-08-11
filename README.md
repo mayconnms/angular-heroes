@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Installation of Vs Code plug-ins
+
+code --install-extension christian-kohler.path-intellisense
+code --install-extension eg2.tslint
+code --install-extension infinity1207.angular2-switcher
+code --install-extension johnpapa.Angular2
+code --install-extension rbbit.typescript-hero
+code --install-extension redhat.java
+code --install-extension robertohuertasm.vscode-icons
+code --install-extension steoates.autoimport
+code --install-extension vscjava.vscode-java-debug
+code --install-extension vscjava.vscode-java-pack
+code --install-extension vscjava.vscode-java-test
+code --install-extension vscjava.vscode-maven
+code --install-extension Zignd.html-css-class-completion
