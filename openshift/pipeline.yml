@@ -1,0 +1,11 @@
+kind: "BuildConfig"
+apiVersion: "v1"
+metadata:
+  name: "tour-of-heroes-pipeline"
+spec:
+  source:
+    git:
+      uri: "https://github.com/mayconnms/angular-heroes"
+  strategy:
+    jenkinsPipelineStrategy:
+      jenkinsfilePath: jenkins/Jenkinsfile
